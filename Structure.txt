@@ -1,0 +1,29 @@
+manthan/
+├── src/
+│   ├── dashboard/              ```treamlit interface
+│   │   └```streamlit_app.py
+│   ├── data_ingestion/         # GEE data processors
+│   │   ``` gee_sentinel2.py
+│   │   ``` gee_chirps.py
+│   │   ``` gee_soilgrids.py
+│   ├── processing/             # Analysis algorithms
+│   │   ├──```vi_processor.py
+│   │   ``` rainfall_processor.py
+│   │   └── soil_processor.py
+│   ├── models```               # AI/ML components
+│   │   ├──```ecies_recommender.py
+│   │   ``` suitability_engine.py
+│   └── utils/                  # Helper functions
+│       ├── a```tools.py
+│       ├──```e_auth.py
+│       └── visualization```
+├── data/
+│   ├── raw```                  # Original datasets
+│   ├── processed/              # AO```lipped results
+│   └── outputs```              # Reports & exports
+├── config```   ├── species_database```ml
+│   ├── g```config.yaml
+│   └── .```.template
+├── notebooks/                ``` Jupyter demos
+├── tests/                ```   # Unit tests
+└── docs```                     # Documentation
