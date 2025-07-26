@@ -1,107 +1,48 @@
-"""
-Google Earth Engine Authentication Helper for Manthan
-===================================================
-Handles GEE authentication with fallback methods for development and production.
-"""
-
+# utils/gee_auth.py - CORRECTED VERSION for earthengine-api 1.6.0
 import ee
-import os
 import streamlit as st
-from pathlib import Path
+import json
+from google.oauth2.credentials import Credentials
 
-class GEEAuthenticator:
-    """Handles Google Earth Engine authentication."""
+def gee_init():
+    """Initialize Google Earth Engine with proper 1.6.0 authentication."""
+    if 'ee_initialized' in st.session_state:
+        return True
     
-    def __init__(self, project_id: str = 'manthan-466509'):
-        self.project_id = project_id
-        self.service_account_path = 'config/gee-service-account.json'
-        
-    def authenticate(self) -> bool:
-        """
-        Authenticate with Google Earth Engine using multiple methods.
-        
-        Returns:
-            bool: True if authentication successful
-        """
-        try:
-            # Method 1: Try service account authentication
-            if self._try_service_account():
-                return True
-                
-            # Method 2: Try user authentication
-            if self._try_user_auth():
-                return True
-                
-            # Method 3: Try default credentials
-            if self._try_default_auth():
-                return True
-                
-            return False
+    PROJECT_ID = "222841508645"  # Your project number (as string)
+    
+    try:
+        if "EARTHENGINE_TOKEN" in st.secrets:
+            # Parse the complete token
+            token_data = json.loads(st.secrets["EARTHENGINE_TOKEN"])
             
-        except Exception as e:
-            st.error(f"Authentication failed: {str(e)}")
-            return False
-    
-    def _try_service_account(self) -> bool:
-        """Try service account authentication."""
-        try:
-            if os.path.exists(self.service_account_path):
-                credentials = ee.ServiceAccountCredentials(
-                    email=None, 
-                    key_file=self.service_account_path
-                )
-                ee.Initialize(credentials=credentials, project=self.project_id)
-                return True
-        except Exception:
-            pass
-        return False
-    
-    def _try_user_auth(self) -> bool:
-        """Try user authentication."""
-        try:
-            ee.Initialize(project=self.project_id)
-            # Test with a simple operation
-            ee.Number(1).getInfo()
-            return True
-        except Exception:
-            pass
-        return False
-    
-    def _try_default_auth(self) -> bool:
-        """Try default authentication."""
-        try:
-            ee.Initialize()
-            return True
-        except Exception:
-            pass
-        return False
-
-def streamlit_authenticate() -> bool:
-    """Streamlit-specific authentication with caching."""
-    
-    if 'gee_authenticated' not in st.session_state:
-        with st.spinner("🔐 Connecting to Google Earth Engine..."):
-            auth = GEEAuthenticator()
-            success = auth.authenticate()
-            st.session_state['gee_authenticated'] = success
+            # Create proper OAuth2 credentials object
+            credentials = Credentials(
+                token=None,  # Access token (will be refreshed)
+                refresh_token=token_data['refresh_token'],
+                id_token=None,
+                token_uri='https://oauth2.googleapis.com/token',
+                client_id=token_data['client_id'],
+                client_secret=token_data['client_secret'],
+                scopes=token_data.get('scopes', [])
+            )
             
-            if success:
-                st.success("✅ Google Earth Engine connected successfully!")
-            else:
-                st.error("❌ Google Earth Engine authentication failed")
-                st.info("Please run 'earthengine authenticate' in your terminal")
-                
-    return st.session_state.get('gee_authenticated', False)
-
-# Test function
-if __name__ == "__main__":
-    auth = GEEAuthenticator()
-    if auth.authenticate():
-        print("✅ Authentication successful!")
+            # Initialize with credentials object and project
+            ee.Initialize(credentials=credentials, project=PROJECT_ID)
+            
+        else:
+            # Fallback to persistent credentials with project
+            ee.Initialize(credentials='persistent', project=PROJECT_ID)
         
-        # Test with simple operation
-        test_number = ee.Number(42)
-        result = test_number.getInfo()
-        print(f"Test operation result: {result}")
-    else:
-        print("❌ Authentication failed")
+        # Test the connection
+        ee.Number(1).getInfo()
+        st.session_state.ee_initialized = True
+        return True
+        
+    except Exception as e:
+        st.error(f"🚨 GEE Authentication failed: {str(e)}")
+        return False
+
+def streamlit_authenticate():
+    """Wrapper function for backward compatibility."""
+    return gee_init()

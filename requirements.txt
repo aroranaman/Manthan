@@ -48,3 +48,22 @@ black>=23.0.0
 leafmap>=0.36.0  # Alternative to geemap
 streamlit-authenticator>=0.3.0  # User authentication
 ipywidgets>=8.1.0  # Jupyter widgets
+
+# Manthan: Regenerative Landscape Planner Requirements
+# Core dependencies for Google Earth Engine and geospatial processing
+
+
+# Image processing
+pillow>=10.0.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# PDF generation
+reportlab>=4.0.0
+
+# Soil data
+soilgrids>=0.1.4
+
+# Additional utilities
+requests>=2.31.0
