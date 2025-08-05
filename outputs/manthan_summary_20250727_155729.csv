@@ -1,12 +1,12 @@
 Metric,Value
-NDVI Mean,0.3351595928160581
-NDVI Std,0.1897313797449952
+NDVI Mean,0.2967361646676286
+NDVI Std,0.11063582412199333
 Vegetation Coverage,Sparse Vegetation
-Annual Rainfall (mm),1012.8667167657168
+Annual Rainfall (mm),1127.6362892908328
 Rainfall Adequacy,Good
-Soil pH,6.9
+Soil pH,7.2
 pH Suitability,Optimal
-Suitability Score,0.632
+Suitability Score,0.645
 Suitability Grade,B
 Restoration Approach,Agroforestry System
 Success Probability (%),79
