@@ -46,15 +46,15 @@ except ImportError as e:
     st.warning(f"Custom module import error: {str(e)}")
     st.info("Running in limited mode without custom modules")
     CUSTOM_MODULES_AVAILABLE = False
-    
+
     # Mock functions for testing
     def gee_init():
         return True
-    
+
     class ManthanDay2Pipeline:
         def __init__(self, aoi):
             self.aoi = aoi
-        
+
         def run_complete_analysis(self):
             return {
                 "ndvi": {"ndvi_mean": 0.73, "ndvi_std": 0.05},
@@ -83,10 +83,18 @@ if not st.session_state.app_loaded:
             st.success("✅ All imports successful")
             time.sleep(0.5)
         except ImportError as e:
-            st.error(f"Import Error: {str(e)}")
-            st.info("Please install missing dependencies:")
-            st.code(f"pip install {str(e).split('No module named ')[-1].strip('\'')}")
-            st.stop()
+                st.error(f"Import Error: {str(e)}")
+                st.info("Please install missing dependencies:")
+        try:
+            error_parts = str(e).split('No module named ')
+            if len(error_parts) > 1:
+                missing_module = error_parts[-1].strip("'").strip('"')
+                st.code(f"pip install {missing_module}")
+            else:
+                st.code("pip install <missing_module>")
+        except Exception:
+            st.code("pip install <missing_module>")
+    st.stop()
 
 
 # ─────────────── PAGE CONFIG ─────────────────────────────
@@ -453,17 +461,16 @@ for k, v in {
     st.session_state.setdefault(k, v)
 
 # ───────────── MAIN APP WRAPPER ──────────────────────────────
-try:
-    # Mark app as loaded
-    st.session_state.app_loaded = True
-    
-    # ───────────── HEADER ──────────────────────────────────────────
-    st.markdown("""
-    <div class="main-header">
-        <h1 class="header-title">🌿 Manthan</h1>
-        <p class="header-subtitle">AI-Powered Forest Restoration Intelligence for India</p>
-    </div>
-    """, unsafe_allow_html=True)
+# Mark app as loaded
+st.session_state.app_loaded = True
+
+# ───────────── HEADER ──────────────────────────────────────────
+st.markdown("""
+<div class="main-header">
+    <h1 class="header-title">🌿 Manthan</h1>
+    <p class="header-subtitle">AI-Powered Forest Restoration Intelligence for India</p>
+</div>
+""", unsafe_allow_html=True)
 
 
 # ───────────── TOP METRICS (if analysis complete) ──────────────
@@ -1532,13 +1539,4 @@ with st.sidebar:
     # Footer
     st.markdown("---")
     st.caption("© 2024 Manthan AI - Building India's Green Future")
-except Exception as e:
-    st.error(f"Application Error: {str(e)}")
-    st.error("Stack trace:")
-    st.code(str(e.__traceback__))
-    
-    # Show debug info
-    with st.expander("Debug Information"):
-        st.write("Session State:", st.session_state)
-        st.write("Python Path:", sys.path)
-        st.write("Current Directory:", Path.cwd())
+# (Removed invalid except block; no try above)
