@@ -115,7 +115,7 @@ class Up(nn.Module):
             self.up = nn.Upsample(scale_factor=2, mode='bilinear', align_corners=True)
             self.conv = DoubleConv(in_channels, out_channels, in_channels // 2)
         else:
-            self.up = nn.ConvTranspose2d(in_channels, in_channels // 2, kernel_size=2, stride=2)
+            self.up = nn.ConvTranspose2d(in_channels // 2, in_channels // 2, kernel_size=2, stride=2)
             self.conv = DoubleConv(in_channels, out_channels)
             
         if self.use_attention:
@@ -168,7 +168,7 @@ class UNet(nn.Module):
         Initializes the UNet model.
 
         Args:
-            in_channels (int): Number of input channels (e.g., 4 for RGB+NIR).
+            in_channels (int): Number of input channels (e.g., 15 for Manthan).
             num_classes (int): Number of output classes for segmentation.
             base_channels (int, optional): Number of channels in the first convolutional layer. Defaults to 32.
             use_attention (bool, optional): If True, enables attention gates on skip connections. Defaults to True.
@@ -235,10 +235,13 @@ class UNet(nn.Module):
         }, path)
 
     @classmethod
-    def load(cls: Type['UNet'], path: str, device: Union[str, torch.device] = "cpu") -> 'UNet':
+    def load(cls: Type['UNet'], path: str, device: Union[str, torch.device] = "cpu", **init_kwargs) -> 'UNet':
         """Loads a UNet model from a file."""
         checkpoint = torch.load(path, map_location=device)
-        model = cls(**checkpoint['init_kwargs'])
+        # Allow overriding saved kwargs
+        model_kwargs = checkpoint.get('init_kwargs', {})
+        model_kwargs.update(init_kwargs)
+        model = cls(**model_kwargs)
         model.load_state_dict(checkpoint['model_state_dict'])
         return model.to(device)
 
@@ -282,7 +285,7 @@ if __name__ == '__main__':
     print("--- Running UNet Segmenter Smoke Test ---")
     
     # --- Configuration ---
-    B, C_IN, H, W = 1, 4, 256, 256
+    B, C_IN, H, W = 1, 15, 256, 256
     NUM_CLASSES = 5
     DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
     
@@ -320,7 +323,7 @@ if __name__ == '__main__':
     model.save(model_path)
     print(f"Model saved to {model_path}")
     
-    loaded_model = UNet.load(model_path, device=DEVICE)
+    loaded_model = UNet.load(model_path, device=DEVICE, in_channels=C_IN, num_classes=NUM_CLASSES)
     print("Model loaded successfully.")
     
     with torch.no_grad():

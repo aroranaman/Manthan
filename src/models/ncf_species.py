@@ -142,7 +142,7 @@ class NCFModel(nn.Module):
         model.load_state_dict(checkpoint['model_state_dict'])
         return model
 
-def build_ncf_species_model(
+def build_ncf_model(
     num_regions: int,
     num_species: int,
     env_dim: int,
@@ -151,7 +151,7 @@ def build_ncf_species_model(
     **kwargs
 ) -> NCFModel:
     """
-    Factory function to build and initialize the NCFModel for species suitability.
+    Factory function to build and initialize the NCFModel.
 
     Args:
         num_regions (int): Total number of unique regions.
@@ -186,7 +186,7 @@ if __name__ == '__main__':
 
     # --- Model Creation ---
     print("\n1. Building NCF model...")
-    model = build_ncf_species_model(
+    model = build_ncf_model(
         num_regions=NUM_REGIONS,
         num_species=NUM_SPECIES,
         env_dim=ENV_DIM,
@@ -200,7 +200,10 @@ if __name__ == '__main__':
     species_ids = torch.randint(0, NUM_SPECIES, (BATCH_SIZE,), device=DEVICE)
     env_feats = torch.randn(BATCH_SIZE, ENV_DIM, device=DEVICE)
     
-    scores = model(region_ids, species_ids, env_feats)
+    # CORRECTED: Switch to eval mode for deterministic output
+    model.eval()
+    with torch.no_grad():
+        scores = model(region_ids, species_ids, env_feats)
     
     print(f"Input shapes: region_ids={region_ids.shape}, species_ids={species_ids.shape}, env_feats={env_feats.shape}")
     print(f"Output scores shape: {scores.shape}")
@@ -242,7 +245,11 @@ if __name__ == '__main__':
     loaded_model.to(DEVICE)
     print("Model loaded successfully.")
     
-    loaded_scores = loaded_model(region_ids, species_ids, env_feats)
+    # CORRECTED: Switch loaded model to eval mode for deterministic comparison
+    loaded_model.eval()
+    with torch.no_grad():
+        loaded_scores = loaded_model(region_ids, species_ids, env_feats)
+    
     assert torch.allclose(scores, loaded_scores, atol=1e-6), "Mismatch between original and loaded model outputs."
     print("✅ Loaded model output matches original model output.")
     
@@ -251,3 +258,4 @@ if __name__ == '__main__':
     print(f"Cleaned up {model_path}.")
     
     print("\n--- Smoke Test Passed ---")
+    print("The NCF Species Model is functioning correctly.")
