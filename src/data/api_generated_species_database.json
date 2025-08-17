@@ -1,0 +1,132 @@
+{
+    "North India": {
+        "Uttar Pradesh": [
+            {
+                "scientific_name": "Mangifera indica",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            },
+            {
+                "scientific_name": "Shorea robusta",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            },
+            {
+                "scientific_name": "Azadirachta indica",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            }
+        ],
+        "Rajasthan": [
+            {
+                "scientific_name": "Prosopis cineraria",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            },
+            {
+                "scientific_name": "Tecomella undulata",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            },
+            {
+                "scientific_name": "Withania somnifera",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            }
+        ],
+        "Uttarakhand": [
+            {
+                "scientific_name": "Rhododendron arboreum",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            },
+            {
+                "scientific_name": "Taxus wallichiana",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            }
+        ]
+    },
+    "South India": {
+        "Karnataka": [
+            {
+                "scientific_name": "Santalum album",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            },
+            {
+                "scientific_name": "Pterocarpus marsupium",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            }
+        ],
+        "Tamil Nadu": [
+            {
+                "scientific_name": "Pterocarpus santalinus",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            },
+            {
+                "scientific_name": "Tamarindus indica",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            }
+        ]
+    },
+    "Northeast India": {
+        "Assam": [
+            {
+                "scientific_name": "Aquilaria malaccensis",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            },
+            {
+                "scientific_name": "Dipterocarpus retusus",
+                "common_name": "N/A",
+                "type": "N/A",
+                "conservation_status": "API Error",
+                "iucn_code": "API Error",
+                "is_invasive": false
+            }
+        ]
+    }
+}

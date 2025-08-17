@@ -1,0 +1,69 @@
+# FILE: src/processing/generate_forecasting_data.py
+
+import pandas as pd
+import numpy as np
+from pathlib import Path
+import sys
+
+# --- Robust Path Fix ---
+project_root = Path(__file__).resolve().parents[2]
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+# --- End Path Fix ---
+
+# --- CONFIG ---
+DATA_DIR = project_root / "src" / "data"
+SPECIES_DB_PATH = DATA_DIR / "species_database.csv" # Using the one from Model 2
+OUTPUT_PATH = DATA_DIR / "forecasting_training_data.csv"
+NUM_SAMPLES = 5000 # Number of hypothetical projects
+
+def generate_data():
+    """Generates a synthetic dataset for training the forecasting models."""
+    print("Loading species database to inform generation...")
+    species_df = pd.read_csv(SPECIES_DB_PATH)
+    
+    # --- 1. Generate random site features for each project ---
+    sites = pd.DataFrame({
+        'NDVI_mean': np.random.uniform(0.2, 0.8, NUM_SAMPLES),
+        'total_precip_mean': np.random.uniform(500, 2500, NUM_SAMPLES),
+        'LST_Day_mean': np.random.uniform(20, 40, NUM_SAMPLES),
+        'soil_organic_carbon_mean': np.random.uniform(0.1, 2.5, NUM_SAMPLES),
+    })
+    
+    # --- 2. Generate a random species mix for each project ---
+    fruit_species = species_df[species_df['type'] == 'fruit']['common_name'].tolist()
+    medicinal_species = species_df[species_df['type'] == 'medicinal']['common_name'].tolist()
+    timber_species = species_df[species_df['type'] == 'timber']['common_name'].tolist()
+
+    sites['percent_fruit_trees'] = np.random.uniform(0.0, 0.6, NUM_SAMPLES)
+    sites['percent_medicinal_plants'] = np.random.uniform(0.0, 0.3, NUM_SAMPLES)
+    sites['percent_timber_trees'] = 1.0 - sites['percent_fruit_trees'] - sites['percent_medicinal_plants']
+    sites['percent_timber_trees'] = sites['percent_timber_trees'].clip(0, 1)
+
+    # --- 3. The "Teacher" Logic: Calculate realistic outcomes ---
+    
+    # Target 1: Time to Self-Sustain (years)
+    base_time = 8.0
+    time_factor = (0.9 - sites['NDVI_mean']) + (1500 - sites['total_precip_mean']) / 1000
+    sites['time_to_sustainability_years'] = base_time + time_factor + np.random.normal(0, 0.5, NUM_SAMPLES)
+    sites['time_to_sustainability_years'] = sites['time_to_sustainability_years'].clip(3, 15)
+
+    # Target 2: Sustainable Foraging Earnings ($/ha/yr)
+    base_earnings = 50.0
+    earnings = base_earnings + (sites['percent_fruit_trees'] * 300) + (sites['percent_medicinal_plants'] * 500)
+    sites['annual_foraging_income'] = earnings * (sites['NDVI_mean'] / 0.5) + np.random.normal(0, 20, NUM_SAMPLES)
+    sites['annual_foraging_income'] = sites['annual_foraging_income'].clip(20)
+
+    # Target 3: 10-Year Carbon Sequestration (tons CO2e/ha)
+    base_seq = 4.0 # tons/ha/yr
+    sequestration = base_seq + (sites['percent_timber_trees'] * 2.0)
+    sites['10yr_carbon_sequestration'] = sequestration * 10 * (sites['soil_organic_carbon_mean'] / 1.0) + np.random.normal(0, 5, NUM_SAMPLES)
+    sites['10yr_carbon_sequestration'] = sites['10yr_carbon_sequestration'].clip(10)
+
+    # --- Finalize and Save ---
+    sites.to_csv(OUTPUT_PATH, index=False)
+    print(f"Synthetic forecasting data successfully generated at:\n{OUTPUT_PATH}")
+    print(f"\nNOTE: This is a synthetic dataset. For best results, replace it with\nreal-world data from historical restoration projects.")
+
+if __name__ == "__main__":
+    generate_data()

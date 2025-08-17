@@ -1,98 +1,72 @@
 # FILE: src/core/knowledge_graph.py
-import networkx as nx
-from typing import List, Dict, Optional
 
-class EcologicalKnowledgeGraph:
+import pandas as pd
+from pathlib import Path
+
+class KnowledgeGraph:
     """
-    A knowledge graph to store and query complex ecological relationships,
-    including species interactions, succession patterns, and symbiotic networks.
+    A data hub that loads and provides query access to aggregated data from
+    authoritative Indian biodiversity sources like IBP and BSI.
     """
-    def __init__(self):
-        """Initializes the knowledge graph."""
-        self.graph = nx.DiGraph()
-        self._populate_graph()
-        print("✅ Ecological Knowledge Graph initialized with sample data.")
+    def __init__(self, data_dir: Path):
+        print("Initializing Knowledge Graph...")
+        self.data_dir = data_dir
+        self._load_data()
+        print(f"✅ Knowledge Graph loaded with {len(self.master_df)} species records.")
 
-    def _populate_graph(self):
+    def _load_data(self):
+        """Loads and merges data from multiple source files."""
+        # Load the base checklist (e.g., from IBP)
+        checklist_path = self.data_dir / "ibp_uttarakhand_checklist.csv"
+        if not checklist_path.exists():
+            raise FileNotFoundError(f"Checklist file not found at {checklist_path}")
+        
+        checklist_df = pd.read_csv(checklist_path)
+
+        # Load the enrichment data (e.g., from BSI/eFlora)
+        status_path = self.data_dir / "bsi_conservation_status.csv"
+        if not status_path.exists():
+            raise FileNotFoundError(f"Conservation status file not found at {status_path}")
+            
+        status_df = pd.read_csv(status_path)
+
+        # Merge the dataframes to create a single, unified knowledge base
+        self.master_df = pd.merge(checklist_df, status_df, on="scientific_name", how="left")
+        
+        # Fill missing values with safe defaults
+        self.master_df['conservation_status'].fillna('Not Evaluated', inplace=True)
+        self.master_df['is_invasive'].fillna(False, inplace=True)
+        self.master_df['is_threatened'].fillna(False, inplace=True)
+
+    def get_all_species(self) -> pd.DataFrame:
+        """Returns the complete list of all species in the knowledge base."""
+        return self.master_df
+
+    def apply_ecological_rules(self, site_features: dict) -> pd.DataFrame:
         """
-        Populates the graph with sample ecological data. In a production system,
-        this would be loaded from a comprehensive graph database.
+        Filters the master species list based on a set of ecological rules.
         """
-        # --- Node Types: species, interaction, ecosystem, invasive ---
-        
-        # Add species nodes
-        self.graph.add_node("Shorea robusta", type='species', common_name='Sal')
-        self.graph.add_node("Tectona grandis", type='species', common_name='Teak')
-        self.graph.add_node("Vachellia nilotica", type='species', common_name='Babul', role='nitrogen-fixer')
-        self.graph.add_node("Lantana camara", type='invasive', common_name='Lantana')
-        
-        # Add ecosystem nodes
-        self.graph.add_node("Dry Deciduous Forest", type='ecosystem')
-        
-        # --- Edge Types: HAS_ROLE, INTERACTS_WITH, PIONEER_FOR, CLIMAX_IN ---
-        
-        # Succession Patterns
-        self.graph.add_edge("Vachellia nilotica", "Dry Deciduous Forest", type='PIONEER_FOR')
-        self.graph.add_edge("Shorea robusta", "Dry Deciduous Forest", type='CLIMAX_IN')
-        
-        # Symbiotic Networks (Nitrogen Fixing)
-        self.graph.add_edge("Vachellia nilotica", "Shorea robusta", type='INTERACTS_WITH', relationship='facilitates_growth')
-        
-        # Invasive Species Filter
-        # Lantana is known to inhibit the growth of Sal
-        self.graph.add_edge("Lantana camara", "Shorea robusta", type='INTERACTS_WITH', relationship='inhibits_growth')
+        candidates = self.master_df.copy()
+        print("\n--- Applying Ecological Rules ---")
 
-    def get_symbiotic_partners(self, species_name: str) -> List[str]:
-        """Finds species that have a positive interaction (e.g., nitrogen-fixing)."""
-        partners = []
-        for u, v, data in self.graph.edges(data=True):
-            if v == species_name and data.get('relationship') == 'facilitates_growth':
-                partners.append(u)
-        return partners
+        # Rule 1: Filter out known invasive species
+        initial_count = len(candidates)
+        candidates = candidates[candidates['is_invasive'] == False]
+        print(f"Rule 1 (Invasives): Removed {initial_count - len(candidates)} species. Candidates remaining: {len(candidates)}")
 
-    def get_pioneer_species(self, ecosystem_name: str) -> List[str]:
-        """Finds pioneer species for a given ecosystem."""
-        pioneers = []
-        for u, v, data in self.graph.edges(data=True):
-            if v == ecosystem_name and data.get('type') == 'PIONEER_FOR':
-                pioneers.append(u)
-        return pioneers
-
-    def check_invasive_interactions(self, species_list: List[str]) -> Dict[str, List[str]]:
-        """Checks for negative interactions from known invasive species."""
-        warnings = {}
-        invasive_species = [n for n, d in self.graph.nodes(data=True) if d.get('type') == 'invasive']
+        # Rule 2: Filter by elevation
+        elevation = site_features.get('elevation_mean', 0)
+        if elevation > 0:
+            initial_count = len(candidates)
+            # Drop species that have a max_elevation defined and where the site is too high
+            candidates.dropna(subset=['max_elevation_m'], inplace=True)
+            candidates = candidates[candidates['max_elevation_m'] >= elevation]
+            
+            # Drop species that have a min_elevation defined and where the site is too low
+            candidates.dropna(subset=['min_elevation_m'], inplace=True)
+            candidates = candidates[candidates['min_elevation_m'] <= elevation]
+            print(f"Rule 2 (Elevation): Filtered for elevation ~{elevation:.0f}m. Candidates remaining: {len(candidates)}")
         
-        for invasive in invasive_species:
-            for u, v, data in self.graph.edges(data=True):
-                if u == invasive and v in species_list and data.get('relationship') == 'inhibits_growth':
-                    if v not in warnings:
-                        warnings[v] = []
-                    warnings[v].append(f"Growth may be inhibited by the invasive species '{invasive}'.")
-        return warnings
+        # Add more rules here for rainfall, soil pH, etc.
 
-if __name__ == '__main__':
-    # --- Smoke Test for the Ecological Knowledge Graph ---
-    print("--- Initializing Knowledge Graph ---")
-    kg = EcologicalKnowledgeGraph()
-    
-    # Test queries
-    target_species = "Shorea robusta"
-    target_ecosystem = "Dry Deciduous Forest"
-    
-    print(f"\n--- Querying for ecosystem: {target_ecosystem} ---")
-    
-    pioneers = kg.get_pioneer_species(target_ecosystem)
-    print(f"  - Pioneer Species: {pioneers}")
-    assert "Vachellia nilotica" in pioneers
-    
-    symbiotic_partners = kg.get_symbiotic_partners(target_species)
-    print(f"  - Symbiotic Partners for {target_species}: {symbiotic_partners}")
-    assert "Vachellia nilotica" in symbiotic_partners
-    
-    recommendation_list = ["Shorea robusta", "Tectona grandis"]
-    invasive_warnings = kg.check_invasive_interactions(recommendation_list)
-    print(f"  - Invasive Species Warnings for {recommendation_list}: {invasive_warnings}")
-    assert "Shorea robusta" in invasive_warnings
-    
-    print("\n✅ Smoke test passed successfully.")
+        return candidates

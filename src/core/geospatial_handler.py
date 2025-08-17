@@ -37,6 +37,65 @@ except ImportError:
                 return True
             except:
                 return False
+def get_worldcover_summary(self, aoi: Dict, scale: int = 100) -> Dict[int, int]:
+    """
+    Returns a histogram {class_value: pixel_count} for ESA WorldCover v200 within AOI.
+    Uses a coarse scale to avoid timeouts on free tier.
+    """
+    if not self.gee_initialized:
+        return {}
+
+    geometry = ee.Geometry(aoi["geometry"])
+    wc = ee.ImageCollection("ESA/WorldCover/v200").first().select("Map")
+
+    # Small, robust server-side histogram
+    hist = wc.reduceRegion(
+        reducer=ee.Reducer.frequencyHistogram(),
+        geometry=geometry,
+        scale=scale,
+        maxPixels=1e9,
+        tileScale=4  # helps with larger AOIs
+    )
+
+    # This is tiny and safe to bring client-side
+    d = ee.Dictionary(hist.get("Map")).getInfo() or {}
+    # keys come back as strings; convert to int
+    return {int(k): int(v) for k, v in d.items()}
+
+
+def get_worldcover_tile_url(self, aoi: Dict) -> str:
+    """
+    Returns a web tile URL to overlay ESA WorldCover v200 on Folium.
+    We remap categorical classes to 0..10 and apply a categorical palette.
+    """
+    if not self.gee_initialized:
+        return ""
+
+    # ESA WC categories we care about (docs-aligned)
+    from_classes = [10, 20, 30, 40, 50, 60, 70,  80,  90,  95, 100]
+    to_indices   = [ 0,  1,  2,  3,  4,  5,  6,   7,   8,   9,  10]
+    palette = [
+        "#006400",  # 10 Tree cover
+        "#ffbb22",  # 20 Shrubland
+        "#ffff4c",  # 30 Grassland
+        "#f096ff",  # 40 Cropland
+        "#fa0000",  # 50 Built-up
+        "#b4b4b4",  # 60 Barren
+        "#f0f0f0",  # 70 Snow/Ice
+        "#0064c8",  # 80 Open water
+        "#0096a0",  # 90 Herbaceous wetland
+        "#00cf75",  # 95 Mangroves
+        "#fae6a0",  # 100 Moss & Lichen
+    ]
+
+    wc = ee.ImageCollection("ESA/WorldCover/v200").first().select("Map")
+    wc_idx = wc.remap(from_classes, to_indices).rename("wc")
+
+    styled = wc_idx.visualize(min=0, max=10, palette=palette)
+
+    # NOTE: we don't need to clip to AOI for tiles; Folium will only draw visible area
+    m = ee.data.getMapId({"image": styled})
+    return m["tile_fetcher"].url_format
 
 
 class GeospatialDataHandler:
