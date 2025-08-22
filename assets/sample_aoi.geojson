@@ -1,0 +1,15 @@
+{
+  "name": "WesternGhats_Sample_1",
+  "polygon_geojson": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [73.8, 15.4],
+        [74.0, 15.4],
+        [74.0, 15.6],
+        [73.8, 15.6],
+        [73.8, 15.4]
+      ]
+    ]
+  }
+}

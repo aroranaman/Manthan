@@ -1,0 +1,9 @@
+{
+  "Bare_vegetation": 0,
+  "Cropland": 1,
+  "Grassland": 2,
+  "Shrubland": 3,
+  "Tree_cover": 4,
+  "Unknown": 5,
+  "Water": 6
+}

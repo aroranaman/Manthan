@@ -1,0 +1,1562 @@
+[
+  {
+    "scientific_name": "Acer caesium",
+    "common_name": "_CURATED_Acer_caesium_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        955,
+        1902
+      ],
+      "optimal_rainfall": 1129,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.6,
+        7.2
+      ],
+      "optimal_ph": 6.1
+    }
+  },
+  {
+    "scientific_name": "Alnus nepalensis",
+    "common_name": "_CURATED_Alnus_nepalensis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        969,
+        3232
+      ],
+      "optimal_rainfall": 1815,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.2,
+        6.6
+      ],
+      "optimal_ph": 5.7
+    }
+  },
+  {
+    "scientific_name": "Anaphalis nepalensis",
+    "common_name": "_CURATED_Anaphalis_nepalensis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        275,
+        1549
+      ],
+      "optimal_rainfall": 724,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.8,
+        7.2
+      ],
+      "optimal_ph": 6.5
+    }
+  },
+  {
+    "scientific_name": "Artabotrys zeylanicus",
+    "common_name": "_CURATED_Artabotrys_zeylanicus_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1814,
+        4874
+      ],
+      "optimal_rainfall": 2707,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.2
+      ],
+      "optimal_ph": 5.6
+    }
+  },
+  {
+    "scientific_name": "Bistorta affinis",
+    "common_name": "_CURATED_Bistorta_affinis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        153,
+        1508
+      ],
+      "optimal_rainfall": 581,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.9,
+        7.6
+      ],
+      "optimal_ph": 6.9
+    }
+  },
+  {
+    "scientific_name": "Bistorta vacciniifolia",
+    "common_name": "_CURATED_Bistorta_vacciniifolia_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        432,
+        1649
+      ],
+      "optimal_rainfall": 1297,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.7,
+        6.8
+      ],
+      "optimal_ph": 6.1
+    }
+  },
+  {
+    "scientific_name": "Breynia vitis-idaea",
+    "common_name": "_CURATED_Breynia_vitis-idaea_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        639,
+        3688
+      ],
+      "optimal_rainfall": 1166,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        7.0
+      ],
+      "optimal_ph": 6.3
+    }
+  },
+  {
+    "scientific_name": "Caltha palustris",
+    "common_name": "_CURATED_Caltha_palustris_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        626,
+        1806
+      ],
+      "optimal_rainfall": 1073,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.6,
+        6.8
+      ],
+      "optimal_ph": 6.2
+    }
+  },
+  {
+    "scientific_name": "Campanula latifolia",
+    "common_name": "_CURATED_Campanula_latifolia_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        433,
+        1874
+      ],
+      "optimal_rainfall": 1122,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.7,
+        6.9
+      ],
+      "optimal_ph": 6.1
+    }
+  },
+  {
+    "scientific_name": "Cannabis sativa",
+    "common_name": "_CURATED_Cannabis_sativa_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        560,
+        2578
+      ],
+      "optimal_rainfall": 1418,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.5,
+        8.0
+      ],
+      "optimal_ph": 6.2
+    }
+  },
+  {
+    "scientific_name": "Cleisostoma tenuifolium",
+    "common_name": "_CURATED_Cleisostoma_tenuifolium_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        2014,
+        5597
+      ],
+      "optimal_rainfall": 3819,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.4,
+        6.0
+      ],
+      "optimal_ph": 5.7
+    }
+  },
+  {
+    "scientific_name": "Clerodendrum infortunatum",
+    "common_name": "_CURATED_Clerodendrum_infortunatum_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1067,
+        3758
+      ],
+      "optimal_rainfall": 2562,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        7.0
+      ],
+      "optimal_ph": 5.6
+    }
+  },
+  {
+    "scientific_name": "Cottonia peduncularis",
+    "common_name": "_CURATED_Cottonia_peduncularis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        2547,
+        3975
+      ],
+      "optimal_rainfall": 2917,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.5,
+        6.3
+      ],
+      "optimal_ph": 6.2
+    }
+  },
+  {
+    "scientific_name": "Dactylorhiza hatagirea",
+    "common_name": "_CURATED_Dactylorhiza_hatagirea_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        102,
+        1298
+      ],
+      "optimal_rainfall": 821,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.8,
+        7.8
+      ],
+      "optimal_ph": 6.4
+    }
+  },
+  {
+    "scientific_name": "Datura stramonium",
+    "common_name": "_CURATED_Datura_stramonium_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        556,
+        1884
+      ],
+      "optimal_rainfall": 1136,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.8,
+        7.7
+      ],
+      "optimal_ph": 6.2
+    }
+  },
+  {
+    "scientific_name": "Dichapetalum gelonioides",
+    "common_name": "_CURATED_Dichapetalum_gelonioides_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        778,
+        4174
+      ],
+      "optimal_rainfall": 1966,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        7.1
+      ],
+      "optimal_ph": 5.5
+    }
+  },
+  {
+    "scientific_name": "Elaeocarpus tuberculatus",
+    "common_name": "_CURATED_Elaeocarpus_tuberculatus_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1456,
+        4165
+      ],
+      "optimal_rainfall": 2024,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.2,
+        5.7
+      ],
+      "optimal_ph": 5.3
+    }
+  },
+  {
+    "scientific_name": "Eriocapitella rivularis",
+    "common_name": "_CURATED_Eriocapitella_rivularis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        189,
+        2264
+      ],
+      "optimal_rainfall": 1461,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.6,
+        7.8
+      ],
+      "optimal_ph": 5.9
+    }
+  },
+  {
+    "scientific_name": "Erythropalum scandens",
+    "common_name": "_CURATED_Erythropalum_scandens_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1694,
+        5079
+      ],
+      "optimal_rainfall": 1903,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        5.6
+      ],
+      "optimal_ph": 5.3
+    }
+  },
+  {
+    "scientific_name": "Flemingia strobilifera",
+    "common_name": "_CURATED_Flemingia_strobilifera_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        819,
+        4206
+      ],
+      "optimal_rainfall": 2212,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.9
+      ],
+      "optimal_ph": 6.1
+    }
+  },
+  {
+    "scientific_name": "Girardinia diversifolia",
+    "common_name": "_CURATED_Girardinia_diversifolia_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        914,
+        4318
+      ],
+      "optimal_rainfall": 1662,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.9
+      ],
+      "optimal_ph": 5.9
+    }
+  },
+  {
+    "scientific_name": "Hydrocotyle javanica",
+    "common_name": "_CURATED_Hydrocotyle_javanica_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        966,
+        4005
+      ],
+      "optimal_rainfall": 1975,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.1
+      ],
+      "optimal_ph": 5.3
+    }
+  },
+  {
+    "scientific_name": "Ichnocarpus frutescens",
+    "common_name": "_CURATED_Ichnocarpus_frutescens_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        656,
+        3265
+      ],
+      "optimal_rainfall": 1136,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.4,
+        7.2
+      ],
+      "optimal_ph": 6.4
+    }
+  },
+  {
+    "scientific_name": "Impatiens acaulis",
+    "common_name": "_CURATED_Impatiens_acaulis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        2126,
+        5533
+      ],
+      "optimal_rainfall": 3562,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.6,
+        6.3
+      ],
+      "optimal_ph": 5.8
+    }
+  },
+  {
+    "scientific_name": "Impatiens bicolor",
+    "common_name": "_CURATED_Impatiens_bicolor_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        968,
+        2092
+      ],
+      "optimal_rainfall": 1421,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.6,
+        6.3
+      ],
+      "optimal_ph": 5.9
+    }
+  },
+  {
+    "scientific_name": "Impatiens sulcata",
+    "common_name": "_CURATED_Impatiens_sulcata_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        756,
+        1666
+      ],
+      "optimal_rainfall": 1297,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.8,
+        6.5
+      ],
+      "optimal_ph": 6.0
+    }
+  },
+  {
+    "scientific_name": "Impatiens tricornis",
+    "common_name": "_CURATED_Impatiens_tricornis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        967,
+        2263
+      ],
+      "optimal_rainfall": 1469,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.6,
+        6.3
+      ],
+      "optimal_ph": 5.9
+    }
+  },
+  {
+    "scientific_name": "Kunstleria keralensis",
+    "common_name": "_CURATED_Kunstleria_keralensis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1814,
+        2927
+      ],
+      "optimal_rainfall": 1848,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        5.5
+      ],
+      "optimal_ph": 5.3
+    }
+  },
+  {
+    "scientific_name": "Lamium album",
+    "common_name": "_CURATED_Lamium_album_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        695,
+        1986
+      ],
+      "optimal_rainfall": 1358,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.7,
+        6.4
+      ],
+      "optimal_ph": 5.9
+    }
+  },
+  {
+    "scientific_name": "Leycesteria formosa",
+    "common_name": "_CURATED_Leycesteria_formosa_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        716,
+        2141
+      ],
+      "optimal_rainfall": 1416,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.7,
+        7.2
+      ],
+      "optimal_ph": 5.9
+    }
+  },
+  {
+    "scientific_name": "Lophopetalum wightianum",
+    "common_name": "_CURATED_Lophopetalum_wightianum_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1745,
+        4979
+      ],
+      "optimal_rainfall": 3554,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.2
+      ],
+      "optimal_ph": 5.6
+    }
+  },
+  {
+    "scientific_name": "Melastoma malabathricum",
+    "common_name": "_CURATED_Melastoma_malabathricum_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1391,
+        5240
+      ],
+      "optimal_rainfall": 3038,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.2,
+        6.5
+      ],
+      "optimal_ph": 5.5
+    }
+  },
+  {
+    "scientific_name": "Mezoneuron cucullatum",
+    "common_name": "_CURATED_Mezoneuron_cucullatum_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        964,
+        4092
+      ],
+      "optimal_rainfall": 2026,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.6
+      ],
+      "optimal_ph": 5.4
+    }
+  },
+  {
+    "scientific_name": "Morina longifolia",
+    "common_name": "_CURATED_Morina_longifolia_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        662,
+        1666
+      ],
+      "optimal_rainfall": 1297,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.7,
+        6.5
+      ],
+      "optimal_ph": 6.1
+    }
+  },
+  {
+    "scientific_name": "Parochetus communis",
+    "common_name": "_CURATED_Parochetus_communis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        846,
+        2453
+      ],
+      "optimal_rainfall": 1461,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.3
+      ],
+      "optimal_ph": 5.9
+    }
+  },
+  {
+    "scientific_name": "Pedicularis siphonantha",
+    "common_name": "_CURATED_Pedicularis_siphonantha_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        231,
+        1469
+      ],
+      "optimal_rainfall": 1025,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.7,
+        7.3
+      ],
+      "optimal_ph": 6.3
+    }
+  },
+  {
+    "scientific_name": "Phlomoides bracteosa",
+    "common_name": "_CURATED_Phlomoides_bracteosa_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        528,
+        1349
+      ],
+      "optimal_rainfall": 843,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.7,
+        7.0
+      ],
+      "optimal_ph": 6.4
+    }
+  },
+  {
+    "scientific_name": "Piptanthus nepalensis",
+    "common_name": "_CURATED_Piptanthus_nepalensis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        695,
+        1732
+      ],
+      "optimal_rainfall": 1303,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.5
+      ],
+      "optimal_ph": 5.8
+    }
+  },
+  {
+    "scientific_name": "Polyspora obtusa",
+    "common_name": "_CURATED_Polyspora_obtusa_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1272,
+        3389
+      ],
+      "optimal_rainfall": 1589,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.2,
+        6.1
+      ],
+      "optimal_ph": 5.4
+    }
+  },
+  {
+    "scientific_name": "Potentilla argyrophylla",
+    "common_name": "_CURATED_Potentilla_argyrophylla_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        360,
+        1621
+      ],
+      "optimal_rainfall": 1151,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.7,
+        7.2
+      ],
+      "optimal_ph": 6.1
+    }
+  },
+  {
+    "scientific_name": "Pothos scandens",
+    "common_name": "_CURATED_Pothos_scandens_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1129,
+        5084
+      ],
+      "optimal_rainfall": 3103,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        7.2
+      ],
+      "optimal_ph": 5.6
+    }
+  },
+  {
+    "scientific_name": "Rhododendron arboreum",
+    "common_name": "_CURATED_Rhododendron_arboreum_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1091,
+        2703
+      ],
+      "optimal_rainfall": 1738,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.1
+      ],
+      "optimal_ph": 5.7
+    }
+  },
+  {
+    "scientific_name": "Rhododendron lepidotum",
+    "common_name": "_CURATED_Rhododendron_lepidotum_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        393,
+        1616
+      ],
+      "optimal_rainfall": 846,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.6,
+        6.7
+      ],
+      "optimal_ph": 6.2
+    }
+  },
+  {
+    "scientific_name": "Rosa macrophylla",
+    "common_name": "_CURATED_Rosa_macrophylla_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        115,
+        1654
+      ],
+      "optimal_rainfall": 1124,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.9,
+        7.9
+      ],
+      "optimal_ph": 6.2
+    }
+  },
+  {
+    "scientific_name": "Rosa sericea",
+    "common_name": "_CURATED_Rosa_sericea_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        403,
+        1666
+      ],
+      "optimal_rainfall": 870,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        7.1
+      ],
+      "optimal_ph": 6.2
+    }
+  },
+  {
+    "scientific_name": "Saussurea obvallata",
+    "common_name": "_CURATED_Saussurea_obvallata_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        446,
+        1538
+      ],
+      "optimal_rainfall": 1025,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.9,
+        6.9
+      ],
+      "optimal_ph": 6.2
+    }
+  },
+  {
+    "scientific_name": "Silene vulgaris",
+    "common_name": "_CURATED_Silene_vulgaris_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        279,
+        1620
+      ],
+      "optimal_rainfall": 1147,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.8,
+        7.2
+      ],
+      "optimal_ph": 6.1
+    }
+  },
+  {
+    "scientific_name": "Solanum viarum",
+    "common_name": "_CURATED_Solanum_viarum_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1119,
+        3942
+      ],
+      "optimal_rainfall": 1929,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        6.7
+      ],
+      "optimal_ph": 5.7
+    }
+  },
+  {
+    "scientific_name": "Syzygium laetum",
+    "common_name": "_CURATED_Syzygium_laetum_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        1620,
+        5169
+      ],
+      "optimal_rainfall": 3238,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.3,
+        5.7
+      ],
+      "optimal_ph": 5.5
+    }
+  },
+  {
+    "scientific_name": "Thunbergia mysorensis",
+    "common_name": "_CURATED_Thunbergia_mysorensis_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        751,
+        6058
+      ],
+      "optimal_rainfall": 2497,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.4,
+        6.6
+      ],
+      "optimal_ph": 5.6
+    }
+  },
+  {
+    "scientific_name": "Trifolium repens",
+    "common_name": "_CURATED_Trifolium_repens_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        671,
+        2547
+      ],
+      "optimal_rainfall": 1493,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.4,
+        7.0
+      ],
+      "optimal_ph": 5.9
+    }
+  },
+  {
+    "scientific_name": "Verbascum thapsus",
+    "common_name": "_CURATED_Verbascum_thapsus_",
+    "is_invasive": false,
+    "conservation_status": "_CURATED_",
+    "traits": {
+      "layer": "_CURATED_",
+      "growth_form": "_CURATED_",
+      "functional_role": "_CURATED_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_CURATED_"
+      ],
+      "rainfall_range_mm": [
+        153,
+        1881
+      ],
+      "optimal_rainfall": 1361,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        5.7,
+        7.8
+      ],
+      "optimal_ph": 6.2
+    }
+  }
+]

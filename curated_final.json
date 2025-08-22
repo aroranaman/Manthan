@@ -1,0 +1,6992 @@
+[
+  {
+    "scientific_name": "Acer caesium",
+    "common_name": "_ADD_COMMON_NAME_FOR_Acer_caesium_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Acilepis ornata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Acilepis_ornata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Acritillas indica",
+    "common_name": "_ADD_COMMON_NAME_FOR_Acritillas_indica_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Aegithalos concinnus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Aegithalos_concinnus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ahaetulla farnsworthi",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ahaetulla_farnsworthi_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Alnus nepalensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Alnus_nepalensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Anaphalis nepalensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Anaphalis_nepalensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Anemonastrum polyanthes",
+    "common_name": "_ADD_COMMON_NAME_FOR_Anemonastrum_polyanthes_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Apis cerana",
+    "common_name": "_ADD_COMMON_NAME_FOR_Apis_cerana_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Apis laboriosa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Apis_laboriosa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Arctelene arcuata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Arctelene_arcuata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ardisia rothii",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ardisia_rothii_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Artabotrys zeylanicus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Artabotrys_zeylanicus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Asota sericea",
+    "common_name": "_ADD_COMMON_NAME_FOR_Asota_sericea_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Bistorta affinis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Bistorta_affinis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Bistorta vacciniifolia",
+    "common_name": "_ADD_COMMON_NAME_FOR_Bistorta_vacciniifolia_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Boiga thackerayi",
+    "common_name": "_ADD_COMMON_NAME_FOR_Boiga_thackerayi_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Bombus rufofasciatus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Bombus_rufofasciatus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Bombus tunicatus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Bombus_tunicatus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Brettus cingulatus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Brettus_cingulatus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Breynia vitis-idaea",
+    "common_name": "_ADD_COMMON_NAME_FOR_Breynia_vitis-idaea_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Caconeura ramburi",
+    "common_name": "_ADD_COMMON_NAME_FOR_Caconeura_ramburi_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Calesia haemorrhoa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Calesia_haemorrhoa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Callistethus stoliczkae",
+    "common_name": "_ADD_COMMON_NAME_FOR_Callistethus_stoliczkae_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Calliteara grotei",
+    "common_name": "_ADD_COMMON_NAME_FOR_Calliteara_grotei_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Caltha palustris",
+    "common_name": "_ADD_COMMON_NAME_FOR_Caltha_palustris_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Campanula latifolia",
+    "common_name": "_ADD_COMMON_NAME_FOR_Campanula_latifolia_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Camponotus angusticollis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Camponotus_angusticollis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Campylotes histrionicus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Campylotes_histrionicus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cannabis sativa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cannabis_sativa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Canscora perfoliata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Canscora_perfoliata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cantao ocellatus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cantao_ocellatus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Carpodacus erythrinus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Carpodacus_erythrinus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Carpodacus rodochroa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Carpodacus_rodochroa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Carpodacus sipahi",
+    "common_name": "_ADD_COMMON_NAME_FOR_Carpodacus_sipahi_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Celastrina argiolus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Celastrina_argiolus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ceratomantis ghatei",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ceratomantis_ghatei_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Certhia himalayana",
+    "common_name": "_ADD_COMMON_NAME_FOR_Certhia_himalayana_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Chaimarrornis leucocephalus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Chaimarrornis_leucocephalus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Chelidorhynx hypoxantha",
+    "common_name": "_ADD_COMMON_NAME_FOR_Chelidorhynx_hypoxantha_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Childrena childreni",
+    "common_name": "_ADD_COMMON_NAME_FOR_Childrena_childreni_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Chitaura indica",
+    "common_name": "_ADD_COMMON_NAME_FOR_Chitaura_indica_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Chloethripa chlorana",
+    "common_name": "_ADD_COMMON_NAME_FOR_Chloethripa_chlorana_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cicindela barmanica",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cicindela_barmanica_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cicindela fabriciana",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cicindela_fabriciana_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cinclus pallasii",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cinclus_pallasii_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cirrhochrista brizoalis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cirrhochrista_brizoalis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cissus glyptocarpa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cissus_glyptocarpa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cleisostoma tenuifolium",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cleisostoma_tenuifolium_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Clerodendrum infortunatum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Clerodendrum_infortunatum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Clinotarsus curtipes",
+    "common_name": "_ADD_COMMON_NAME_FOR_Clinotarsus_curtipes_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Columba leuconota",
+    "common_name": "_ADD_COMMON_NAME_FOR_Columba_leuconota_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Columba livia",
+    "common_name": "_ADD_COMMON_NAME_FOR_Columba_livia_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Corgatha tornalis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Corgatha_tornalis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Corvus macrorhynchos",
+    "common_name": "_ADD_COMMON_NAME_FOR_Corvus_macrorhynchos_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Corydalis cashmeriana",
+    "common_name": "_ADD_COMMON_NAME_FOR_Corydalis_cashmeriana_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cottonia peduncularis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cottonia_peduncularis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Craspedocephalus malabaricus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Craspedocephalus_malabaricus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Crematogaster rogenhoferi",
+    "common_name": "_ADD_COMMON_NAME_FOR_Crematogaster_rogenhoferi_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Culicicapa ceylonensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Culicicapa_ceylonensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Cupha erymanthis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Cupha_erymanthis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Dactylorhiza hatagirea",
+    "common_name": "_ADD_COMMON_NAME_FOR_Dactylorhiza_hatagirea_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Datura stramonium",
+    "common_name": "_ADD_COMMON_NAME_FOR_Datura_stramonium_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Dendrelaphis ashoki",
+    "common_name": "_ADD_COMMON_NAME_FOR_Dendrelaphis_ashoki_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Dendrocopos himalayensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Dendrocopos_himalayensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Dendrocopos hyperythrus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Dendrocopos_hyperythrus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Dichapetalum gelonioides",
+    "common_name": "_ADD_COMMON_NAME_FOR_Dichapetalum_gelonioides_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Dicrurus leucophaeus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Dicrurus_leucophaeus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Diplacodes trivialis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Diplacodes_trivialis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Duttaphrynus brevirostris",
+    "common_name": "_ADD_COMMON_NAME_FOR_Duttaphrynus_brevirostris_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Duttaphrynus melanostictus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Duttaphrynus_melanostictus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Elaeocarpus tuberculatus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Elaeocarpus_tuberculatus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Enicurus scouleri",
+    "common_name": "_ADD_COMMON_NAME_FOR_Enicurus_scouleri_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Erebus caprimulgus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Erebus_caprimulgus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Erebus ephesperis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Erebus_ephesperis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Eriocapitella rivularis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Eriocapitella_rivularis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Eristalis tenax",
+    "common_name": "_ADD_COMMON_NAME_FOR_Eristalis_tenax_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Erygia spissa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Erygia_spissa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Erythropalum scandens",
+    "common_name": "_ADD_COMMON_NAME_FOR_Erythropalum_scandens_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Eterusia aedea",
+    "common_name": "_ADD_COMMON_NAME_FOR_Eterusia_aedea_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Eumyias thalassinus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Eumyias_thalassinus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Euphaea fraseri",
+    "common_name": "_ADD_COMMON_NAME_FOR_Euphaea_fraseri_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Eurrhyparodes bracteolalis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Eurrhyparodes_bracteolalis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Fascellina chromataria",
+    "common_name": "_ADD_COMMON_NAME_FOR_Fascellina_chromataria_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Flemingia strobilifera",
+    "common_name": "_ADD_COMMON_NAME_FOR_Flemingia_strobilifera_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Gagea lasiantha",
+    "common_name": "_ADD_COMMON_NAME_FOR_Gagea_lasiantha_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Gasteracantha kuhli",
+    "common_name": "_ADD_COMMON_NAME_FOR_Gasteracantha_kuhli_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ghatiana atropurpurea",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ghatiana_atropurpurea_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ghatiana rouxi",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ghatiana_rouxi_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Girardinia diversifolia",
+    "common_name": "_ADD_COMMON_NAME_FOR_Girardinia_diversifolia_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Gouania microcarpa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Gouania_microcarpa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Heterophasia capistrata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Heterophasia_capistrata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Hirtaeschopalaea albolineata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Hirtaeschopalaea_albolineata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Hoplobatrachus tigerinus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Hoplobatrachus_tigerinus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Hydrocotyle javanica",
+    "common_name": "_ADD_COMMON_NAME_FOR_Hydrocotyle_javanica_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Hylaeothemis apicalis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Hylaeothemis_apicalis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Hypnale hypnale",
+    "common_name": "_ADD_COMMON_NAME_FOR_Hypnale_hypnale_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ichnocarpus frutescens",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ichnocarpus_frutescens_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Impatiens acaulis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Impatiens_acaulis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Impatiens bicolor",
+    "common_name": "_ADD_COMMON_NAME_FOR_Impatiens_bicolor_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Impatiens sulcata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Impatiens_sulcata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Impatiens tricornis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Impatiens_tricornis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Indicator xanthonotus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Indicator_xanthonotus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Indirana semipalmata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Indirana_semipalmata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Indomenella indica",
+    "common_name": "_ADD_COMMON_NAME_FOR_Indomenella_indica_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Indosylvirana indica",
+    "common_name": "_ADD_COMMON_NAME_FOR_Indosylvirana_indica_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Indosylvirana intermedia",
+    "common_name": "_ADD_COMMON_NAME_FOR_Indosylvirana_intermedia_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ischyja marapok",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ischyja_marapok_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Justicia santapaui",
+    "common_name": "_ADD_COMMON_NAME_FOR_Justicia_santapaui_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Kalidasa lanata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Kalidasa_lanata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Kunstleria keralensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Kunstleria_keralensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Lamium album",
+    "common_name": "_ADD_COMMON_NAME_FOR_Lamium_album_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Lampides boeticus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Lampides_boeticus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Lathrecista asiatica",
+    "common_name": "_ADD_COMMON_NAME_FOR_Lathrecista_asiatica_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Leycesteria formosa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Leycesteria_formosa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ligustrum minii",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ligustrum_minii_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Lopharthrum comprimens",
+    "common_name": "_ADD_COMMON_NAME_FOR_Lopharthrum_comprimens_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Lophopetalum wightianum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Lophopetalum_wightianum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Luscinia brunnea",
+    "common_name": "_ADD_COMMON_NAME_FOR_Luscinia_brunnea_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Lycodon travancoricus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Lycodon_travancoricus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Lymantria fuliginosa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Lymantria_fuliginosa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Macaca radiata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Macaca_radiata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Macracantha hasselti",
+    "common_name": "_ADD_COMMON_NAME_FOR_Macracantha_hasselti_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Macrobrochis gigas",
+    "common_name": "_ADD_COMMON_NAME_FOR_Macrobrochis_gigas_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Macroglossum corythus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Macroglossum_corythus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Marengo zebra",
+    "common_name": "_ADD_COMMON_NAME_FOR_Marengo_zebra_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Maripanthus jubatus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Maripanthus_jubatus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Melanitis leda",
+    "common_name": "_ADD_COMMON_NAME_FOR_Melanitis_leda_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Melastoma malabathricum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Melastoma_malabathricum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Meotipa sahyadri",
+    "common_name": "_ADD_COMMON_NAME_FOR_Meotipa_sahyadri_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Mezoneuron cucullatum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Mezoneuron_cucullatum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Miltochrista terminospota",
+    "common_name": "_ADD_COMMON_NAME_FOR_Miltochrista_terminospota_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Minla strigula",
+    "common_name": "_ADD_COMMON_NAME_FOR_Minla_strigula_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Monilesaurus rouxii",
+    "common_name": "_ADD_COMMON_NAME_FOR_Monilesaurus_rouxii_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Morina longifolia",
+    "common_name": "_ADD_COMMON_NAME_FOR_Morina_longifolia_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Motacilla cinerea",
+    "common_name": "_ADD_COMMON_NAME_FOR_Motacilla_cinerea_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Mycerobas melanozanthos",
+    "common_name": "_ADD_COMMON_NAME_FOR_Mycerobas_melanozanthos_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Myophonus caeruleus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Myophonus_caeruleus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Myrmarachne ramunni",
+    "common_name": "_ADD_COMMON_NAME_FOR_Myrmarachne_ramunni_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Neurothemis fulvia",
+    "common_name": "_ADD_COMMON_NAME_FOR_Neurothemis_fulvia_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Neurothemis tullia",
+    "common_name": "_ADD_COMMON_NAME_FOR_Neurothemis_tullia_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Nola lucidalis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Nola_lucidalis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Nolasena ferrifervens",
+    "common_name": "_ADD_COMMON_NAME_FOR_Nolasena_ferrifervens_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Nyctibatrachus kumbara",
+    "common_name": "_ADD_COMMON_NAME_FOR_Nyctibatrachus_kumbara_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Nygmia icilia",
+    "common_name": "_ADD_COMMON_NAME_FOR_Nygmia_icilia_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ochotona roylii",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ochotona_roylii_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Olene mendosa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Olene_mendosa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ordgarius sexspinosus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ordgarius_sexspinosus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Oriolus traillii",
+    "common_name": "_ADD_COMMON_NAME_FOR_Oriolus_traillii_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ornithospila submonstrans",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ornithospila_submonstrans_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Osbeckia virgata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Osbeckia_virgata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Otus bakkamoena",
+    "common_name": "_ADD_COMMON_NAME_FOR_Otus_bakkamoena_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Oxyopes shweta",
+    "common_name": "_ADD_COMMON_NAME_FOR_Oxyopes_shweta_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Papilio helenus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Papilio_helenus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Papilio memnon",
+    "common_name": "_ADD_COMMON_NAME_FOR_Papilio_memnon_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Parawixia dehaani",
+    "common_name": "_ADD_COMMON_NAME_FOR_Parawixia_dehaani_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Parochetus communis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Parochetus_communis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Parus cinereus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Parus_cinereus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Parus monticolus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Parus_monticolus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pasilobus kotigeharus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pasilobus_kotigeharus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pedicularis siphonantha",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pedicularis_siphonantha_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pericrocotus flammeus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pericrocotus_flammeus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pericrocotus speciosus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pericrocotus_speciosus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Periparus ater",
+    "common_name": "_ADD_COMMON_NAME_FOR_Periparus_ater_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Phaulopsis dorsiflora",
+    "common_name": "_ADD_COMMON_NAME_FOR_Phaulopsis_dorsiflora_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Phazaca leucocera",
+    "common_name": "_ADD_COMMON_NAME_FOR_Phazaca_leucocera_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pheidole phipsoni",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pheidole_phipsoni_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Phlomoides bracteosa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Phlomoides_bracteosa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Phoenicurus fuliginosus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Phoenicurus_fuliginosus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Phylloscopus humei",
+    "common_name": "_ADD_COMMON_NAME_FOR_Phylloscopus_humei_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Phylloscopus inornatus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Phylloscopus_inornatus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Phylloscopus trochiloides",
+    "common_name": "_ADD_COMMON_NAME_FOR_Phylloscopus_trochiloides_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Piptanthus nepalensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Piptanthus_nepalensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Polemonium caeruleum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Polemonium_caeruleum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Polyspora obtusa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Polyspora_obtusa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pomponia pseudolinearis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pomponia_pseudolinearis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Potentilla argyrophylla",
+    "common_name": "_ADD_COMMON_NAME_FOR_Potentilla_argyrophylla_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pothos scandens",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pothos_scandens_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Procarduelis nipalensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Procarduelis_nipalensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Progonia kurosawai",
+    "common_name": "_ADD_COMMON_NAME_FOR_Progonia_kurosawai_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pseudophilautus wynaadensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pseudophilautus_wynaadensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Psilogramma increta",
+    "common_name": "_ADD_COMMON_NAME_FOR_Psilogramma_increta_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Psittacula cyanocephala",
+    "common_name": "_ADD_COMMON_NAME_FOR_Psittacula_cyanocephala_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Psittacula himalayana",
+    "common_name": "_ADD_COMMON_NAME_FOR_Psittacula_himalayana_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pteruthius aeralatus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pteruthius_aeralatus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Ptyas mucosa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Ptyas_mucosa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pyrrhocorax graculus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pyrrhocorax_graculus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pyrrhocorax pyrrhocorax",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pyrrhocorax_pyrrhocorax_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Pyrrhula erythrocephala",
+    "common_name": "_ADD_COMMON_NAME_FOR_Pyrrhula_erythrocephala_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Raorchestes hassanensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Raorchestes_hassanensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Raorchestes luteolus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Raorchestes_luteolus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Rhacophorus malabaricus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Rhacophorus_malabaricus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Rhododendron arboreum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Rhododendron_arboreum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Rhododendron lepidotum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Rhododendron_lepidotum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Rosa macrophylla",
+    "common_name": "_ADD_COMMON_NAME_FOR_Rosa_macrophylla_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Rosa sericea",
+    "common_name": "_ADD_COMMON_NAME_FOR_Rosa_sericea_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Saussurea obvallata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Saussurea_obvallata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Saxicola ferreus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Saxicola_ferreus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Scrophularia edgeworthii",
+    "common_name": "_ADD_COMMON_NAME_FOR_Scrophularia_edgeworthii_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Semnopithecus hypoleucos",
+    "common_name": "_ADD_COMMON_NAME_FOR_Semnopithecus_hypoleucos_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Siccia guttulosana",
+    "common_name": "_ADD_COMMON_NAME_FOR_Siccia_guttulosana_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Silene vulgaris",
+    "common_name": "_ADD_COMMON_NAME_FOR_Silene_vulgaris_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Sitta himalayensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Sitta_himalayensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Solanum viarum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Solanum_viarum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Spermacoce verticillata",
+    "common_name": "_ADD_COMMON_NAME_FOR_Spermacoce_verticillata_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Spialia galba",
+    "common_name": "_ADD_COMMON_NAME_FOR_Spialia_galba_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Spilopelia chinensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Spilopelia_chinensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Streptopelia orientalis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Streptopelia_orientalis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Syzygium laetum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Syzygium_laetum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Talicada nyseus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Talicada_nyseus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Teleopsis sykesii",
+    "common_name": "_ADD_COMMON_NAME_FOR_Teleopsis_sykesii_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Thereuopoda longicornis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Thereuopoda_longicornis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Thrigmopoeus truculentus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Thrigmopoeus_truculentus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Thunbergia mysorensis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Thunbergia_mysorensis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Trachythorax illaesa",
+    "common_name": "_ADD_COMMON_NAME_FOR_Trachythorax_illaesa_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Traminda aventiaria",
+    "common_name": "_ADD_COMMON_NAME_FOR_Traminda_aventiaria_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Treron sphenurus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Treron_sphenurus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Trifolium repens",
+    "common_name": "_ADD_COMMON_NAME_FOR_Trifolium_repens_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Trochalopteron lineatum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Trochalopteron_lineatum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Trochalopteron variegatum",
+    "common_name": "_ADD_COMMON_NAME_FOR_Trochalopteron_variegatum_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Troides minos",
+    "common_name": "_ADD_COMMON_NAME_FOR_Troides_minos_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Turdus albocinctus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Turdus_albocinctus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Uperodon mormoratus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Uperodon_mormoratus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Upupa epops",
+    "common_name": "_ADD_COMMON_NAME_FOR_Upupa_epops_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Urocissa erythroryncha",
+    "common_name": "_ADD_COMMON_NAME_FOR_Urocissa_erythroryncha_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Urocissa flavirostris",
+    "common_name": "_ADD_COMMON_NAME_FOR_Urocissa_flavirostris_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Valeriana himalayana",
+    "common_name": "_ADD_COMMON_NAME_FOR_Valeriana_himalayana_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Verbascum thapsus",
+    "common_name": "_ADD_COMMON_NAME_FOR_Verbascum_thapsus_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Vestalis apicalis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Vestalis_apicalis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Vindula erota",
+    "common_name": "_ADD_COMMON_NAME_FOR_Vindula_erota_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Yuhina flavicollis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Yuhina_flavicollis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Yuhina gularis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Yuhina_gularis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  },
+  {
+    "scientific_name": "Zizina otis",
+    "common_name": "_ADD_COMMON_NAME_FOR_Zizina_otis_",
+    "is_invasive": false,
+    "conservation_status": "Data Deficient",
+    "traits": {
+      "layer": "_ADD_LAYER_",
+      "growth_form": "_ADD_FORM_",
+      "functional_role": "_ADD_ROLE_"
+    },
+    "ecology": {
+      "native_to_zones": [
+        "_ADD_ZONES_"
+      ],
+      "rainfall_range_mm": [
+        0,
+        0
+      ],
+      "optimal_rainfall": 0,
+      "elevation_range_m": [
+        0,
+        0
+      ],
+      "soil_ph_range": [
+        0.0,
+        0.0
+      ],
+      "optimal_ph": 0.0
+    }
+  }
+]
